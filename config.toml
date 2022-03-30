@@ -1,0 +1,26 @@
+baseURL = 'https://blackpirateblogs.github.io'
+languageCode = 'en-us'
+title = 'Blogs By BlackPirate'
+description = 'This website is a blog website for BlackPirate.'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Hi, Welcome to BlackPirate Blogs"
+Content = "A place for all my ideas that I want to share with the world. Made with hugo, love and PaperMod theme."
+
+[[params.socialIcons]]
+name = "link"
+url = "https://blackpiratelive.github.io"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/blackpirateapps"
+
+[[params.socialIcons]]
+name = "spotify"
+url = "https://open.spotify.com/user/pbcnltgp665bkjd7aaab7mujl?si=00d2JIE8S6S2cu4J4vNexA"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:blackpirate101@protonmail.com"
+
